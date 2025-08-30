@@ -27,3 +27,7 @@ git clone https://github.com/4RN1/todo-list.git
 
 # Navigate into the project folder
 cd todo-list
+```
+
+## Contribution 
+Feel free to contribute ,  if u have new ideas fork repository and pull request 
